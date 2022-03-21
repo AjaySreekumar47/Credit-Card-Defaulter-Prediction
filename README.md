@@ -1,0 +1,2 @@
+# Credit-Card-Defaulter-Prediction
+This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005. This notebook looks into using various Python-based machine learning and data science libraries in an attempt to build a machine learning model capable of predicting whether or not someone has defaulted on credit card payments
